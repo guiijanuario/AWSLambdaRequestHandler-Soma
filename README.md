@@ -2,6 +2,13 @@
 :books: <br>Como subir um metodo handler na AWS Lambda
 </h1>
 
+
+## ⏯️ Requisitos
+
+- Você precisará ter o [JDK 11](https://www.oracle.com/java/technologies/downloads/#java11) instalado no seu computador;
+- Instalar o AWS SAM CLI
+- Configurar sua chave privada e security key da AWS com o comando ```aws configure```
+
 ---
 
 ## ✔️ Passo 01: Criar Projeto no java
